@@ -1,1 +1,1 @@
-### Simple AES decryption by using Chip Whisperer as the power tracer
+### AES key extraction by using Chip Whisperer (side channel attack)
